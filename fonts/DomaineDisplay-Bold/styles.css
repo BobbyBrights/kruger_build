@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'DomaineDisplay-Bold';
+  src: url('DomaineDisplay-Bold.eot?#iefix') format('embedded-opentype'),  url('DomaineDisplay-Bold.otf')  format('opentype'),
+	     url('DomaineDisplay-Bold.woff') format('woff'), url('DomaineDisplay-Bold.ttf')  format('truetype'), url('DomaineDisplay-Bold.svg#DomaineDisplay-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
