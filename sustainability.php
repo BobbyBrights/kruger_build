@@ -1,3 +1,6 @@
+<?php
+require('access.php');
+?>
 <!DOCTYPE html>
 <html>
   <head>
